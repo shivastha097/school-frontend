@@ -6,12 +6,15 @@ body {
 .clear {
     clear: both;
 }
-.fa-times{
+
+.fa-times {
     color: #DC3545;
 }
-.fa-check{
+
+.fa-check {
     color: rgb(12, 226, 59);
 }
+
 .fa-eye {
     color: #6C757D;
 }
@@ -23,9 +26,11 @@ body {
 .fa-pencil-square-o {
     color: #007BFF;
 }
-.attendance-content{
+
+.attendance-content {
     font-size: 14px;
 }
+
 .bg1 {
     font-size: 12px;
     font-weight: 500;

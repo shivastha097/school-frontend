@@ -25,7 +25,6 @@
                                     <input type="text" class="form-control">
                                 </div>
                             </div>
-
                             <div class="form-row">
                                 <div class="col-md-3 pt-4">
                                     <label for="phone">Phone</label>
@@ -36,7 +35,6 @@
                                     <input type="email" class="form-control" name="email">
                                 </div>
                             </div>
-
                             <div class="form-row">
                                 <div class="col-md-3 pt-4">
                                         <label for="teacherType">Occupation</label>
@@ -51,7 +49,6 @@
                                         <input type="number" class="form-control" name="salary">
                                     </div>
                                 </div>
-
                             <div class="form-row">
                                 <div class="col-md-3 pt-4">
                                     <label for="address">Address</label>
@@ -72,12 +69,10 @@
                                     </select>
                                 </div>
                             </div>
-
                             <div class="upload pt-4">
                                 <label for="">Upload Photo</label>
                                 <input type="file" accept="image/*" name="photo">
                             </div>
-
                             <div class="down">
                                 <button type="submit" class="btn btn-warning btn-sm mt-3">Save</button>
                                 <button type="reset" class="btn btn-dark btn-sm mt-3">Reset</button>
